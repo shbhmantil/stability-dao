@@ -1,0 +1,12 @@
+{
+    "pathsToAnalyze": [
+        "**/src/core/vaults/MetaVault.*",
+        "**/src/core/vaults/WrappedMetaVault.*",
+        "**/src/core/vaults/CVault.*",
+        "**/src/core/base/VaultBase.*",
+        "**/src/core/libs/VaultBaseLib.*",
+        "**/src/strategies/SiloStrategy.*",
+        "**/src/strategies/base/ERC4626StrategyBase.*",
+        "**/src/strategies/base/StrategyBase.*"
+    ]
+}
